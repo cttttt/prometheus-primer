@@ -20,6 +20,10 @@ To try it out, clone and run `docker-compose up -d`, then browse to http://local
 
 You should notice around 100rpm from two sources.
 
+## Example
+
+![Slow RPMs](https://raw.github.com/cttttt/prometheus-primer/master/screenshot.png)
+
 ## Author
 
 Chris Taylor
